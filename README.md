@@ -1,5 +1,3 @@
-# 3D-HyperGAMO
-
 # Generative Adversarial Minority Oversampling for Spectral-Spatial Hyperspectral Image Classification
 The Code for "Generative Adversarial Minority Oversampling for Spectral-Spatial Hyperspectral Image Classification". [https://ieeexplore.ieee.org/document/9347550]
 ```

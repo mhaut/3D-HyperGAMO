@@ -22,10 +22,10 @@ conda activate 3D-HyperGAMO
 ### Example of use
 ```
 # Without datasets
-git clone https://github.com/mhaut/hyperspectral_deeplearning_review/
+git clone https://github.com/mhaut/3D-HyperGAMO/
 
 # With datasets
-git clone --recursive https://github.com/mhaut/hyperspectral_deeplearning_review/
+git clone --recursive https://github.com/mhaut/3D-HyperGAMO/
 cd HSI-datasets
 python join_dsets.py
 ```

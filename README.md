@@ -39,4 +39,4 @@ python main.py --dataset IP
 
 ```
 
-Reference code: https://github.com/mingyuliutw/UNIT
+Reference code: https://github.com/SankhaSubhra/GAMO

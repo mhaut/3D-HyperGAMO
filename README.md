@@ -10,7 +10,7 @@ DOI: 10.1109/TGRS.2021.3052048
 February 2021.
 ```
 
-![3DGAMO](https://github.com/mhaut/3D-HyperGAMO/blob/master/images/3DGAMO.png)
+![3DGAMO](./images/3DGAMO.png)
 
 
 ### Install and activate requires packages (with conda)
